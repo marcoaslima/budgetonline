@@ -12,7 +12,14 @@ Controle contas, receitas, despesas, cartões de crédito e investimentos de uma
 </ul>
 
 ### Funcionalidades (adicionando)
-Em desenvolvimento
+<ul>
+<li>Calcule o rendimento de investimentos (Tesouro, CDB, LCI, LCA, LC)¹</li>
+<li>Adicione contas¹</li>
+<li>Lembrete de pagamento¹</li>
+<li>Controle financeiro¹</li>
+</ul>
+
+(¹) Funcionalidades que estão atualmente em desenvolvimento
 
 ### Onde baixar?
 Plataforma ainda não disponível
